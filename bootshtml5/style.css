@@ -1,0 +1,13 @@
+body {
+    transition: background-color 0.3s, color 0.3s;
+}
+.card {
+    border: none;
+    background: transparent;
+}
+.rounded-circle {
+    width: 150px;
+    height: 150px;
+
+    object-fit: cover;
+}
